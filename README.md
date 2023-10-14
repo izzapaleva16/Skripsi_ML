@@ -1,6 +1,6 @@
 ## Skripsi_ML
 
-Improved prediction classes code from https://github.com/BasalamahZ/skripsi-machine-learning dan coba model_ML.h5 untuk dihubungkan ke API
+Improved prediction classes code from https://github.com/BasalamahZ/skripsi-machine-learning dan coba model_ML.h5 untuk dihubungkan ke API untuk evaluasi
 
 ## Notes!!
 
